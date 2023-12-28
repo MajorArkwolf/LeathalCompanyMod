@@ -1,3 +1,3 @@
 # Lethal Company Mod
 ## Latest Link
-**Code:** 018caff5-526e-5f21-9c0c-a359f67763f6
+**Code:** 018cb02a-21e5-6fff-2d3b-3a4293c87a10
