@@ -1,6 +1,6 @@
 # Lethal Company Mod
 ## Latest Link
 ### Cam does Eyeless Dogs
-**Code:** 018eebf2-61d7-1488-77f9-1f6d71aaac10
+**Code:** 018ef114-9c99-9299-9b0c-8c36c14cfafb
 ### Danny has bewbs
 **Code:** 018ddba2-69b0-9ab9-e545-a490425afcb2
