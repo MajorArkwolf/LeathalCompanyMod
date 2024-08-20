@@ -1,7 +1,7 @@
 # Lethal Company Mod
 ## Latest Link
 ### Comeback Boys
-01916f97-cc94-01df-3a6c-69d67ed409d6
+01916fa9-e668-d48b-06ef-ba63d0f952f4
 
 ## Old
 ### Cam does Eyeless Dogs 
